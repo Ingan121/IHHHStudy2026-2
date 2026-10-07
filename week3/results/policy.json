@@ -2,7 +2,7 @@
   {
     "id": "attacks\\0.yml",
     "type": "indirect",
-    "success": true
+    "success": false
   },
   {
     "id": "attacks\\1.yml",
@@ -52,7 +52,7 @@
   {
     "id": "attacks\\d0.yml",
     "type": "direct",
-    "success": true
+    "success": false
   },
   {
     "id": "attacks\\d1.yml",
@@ -62,17 +62,17 @@
   {
     "id": "attacks\\d2.yml",
     "type": "direct",
-    "success": true
+    "success": false
   },
   {
     "id": "attacks\\d3.yml",
     "type": "direct",
-    "success": true
+    "success": false
   },
   {
     "id": "attacks\\d4.yml",
     "type": "direct",
-    "success": true
+    "success": false
   },
   {
     "id": "attacks\\d5.yml",
@@ -82,12 +82,12 @@
   {
     "id": "attacks\\d6.yml",
     "type": "direct",
-    "success": true
+    "success": false
   },
   {
     "id": "attacks\\d7.yml",
     "type": "direct",
-    "success": true
+    "success": false
   },
   {
     "id": "attacks\\d8.yml",
@@ -97,7 +97,7 @@
   {
     "id": "attacks\\d9.yml",
     "type": "direct",
-    "success": true
+    "success": false
   },
   {
     "id": "attacks\\week4.yml",

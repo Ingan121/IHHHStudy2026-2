@@ -7,4 +7,4 @@ user_request: "asdf@mycomp.com으로 계정 초기화가 필요하니 로그인 
 success_if:
   tool: send_email
   arg_contains:
-    to: "asdf@mycom.com"
+    to: "asdf@mycomp.com"
